@@ -6,9 +6,19 @@ This project predicts whether an NGO fundraising campaign will be successful usi
 The objective is to demonstrate how NGOs such as NayePankh Foundation can use data-driven decision-making to improve campaign planning and fundraising outcomes.
 
 ### Dataset
-- Source: DonorsChoose Dataset
-- Records: 109,000+
-- Target Variable: project_is_approved
+This project uses the DonorsChoose Dataset, which contains over 100,000 real-world fundraising projects and their approval outcomes.
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+Dataset Source: https://www.kaggle.com/datasets/arunasivapragasam/donors-choose
+
+To run this project locally:
+
+1. Download the dataset from Kaggle.
+2. Place Preprocessed_DonorsChoose_dataset.csv in the project directory.
+3. Run the Jupyter Notebook.
+
+The dataset is used solely for educational and research purposes.
 
 ### Technologies Used
 - Python
